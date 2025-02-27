@@ -3,7 +3,7 @@ import express from "express";
 const app = express();
 const port = 4000;
 
-app.get("/test", (req, res) => {
+app.get("/profiles", (req, res) => {
     return res.json(data);
 });
 
