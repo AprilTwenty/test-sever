@@ -15,3 +15,8 @@ const data = {
     name : "John",
     age : "20"
 };
+
+const test = {
+    name : "a",
+    age : 20
+};
